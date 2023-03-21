@@ -1,1 +1,1 @@
-just for practice solidity！
+just for practice solidity!!!
